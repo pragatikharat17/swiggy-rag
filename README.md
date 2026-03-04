@@ -83,6 +83,16 @@ Open it in any browser — no setup needed.
 6. Open Gradio link printed by last cell
 ```
 
+## 📊 Evaluation Results
+
+| Metric | Score |
+|--------|-------|
+| Seen Accuracy (in-sample) | 90.9% (10/11) |
+| Unseen Accuracy (out-of-sample) | 90.0% (9/10) |
+| Generalisation Gap | 0.9% 🟢 excellent |
+| Hallucination Rate | 0% |
+| Grade | 🟢 Excellent |
+
 ## 🎥 Demo & Sample Output
 
 📁 **Google Drive — Demo Folder**  
