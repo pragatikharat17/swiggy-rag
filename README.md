@@ -82,3 +82,7 @@ Open it in any browser — no setup needed.
 5. Enter Groq key when asked
 6. Open Gradio link printed by last cell
 ```
+
+**4 — Include in submission email**
+```
+Gradio Demo: https://f9900d7f9765de1098.gradio.live
