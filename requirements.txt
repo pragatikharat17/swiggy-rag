@@ -1,0 +1,9 @@
+cat > requirements.txt << 'EOF'
+pymupdf
+sentence-transformers
+faiss-cpu
+groq
+gradio
+tqdm
+numpy
+EOF
