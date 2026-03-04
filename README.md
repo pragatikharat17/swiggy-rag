@@ -83,6 +83,7 @@ Open it in any browser — no setup needed.
 6. Open Gradio link printed by last cell
 ```
 
-**4 — Include in submission email**
-```
-Gradio Demo: https://f9900d7f9765de1098.gradio.live
+## 🎥 Demo & Sample Output
+
+📁 **Google Drive — Demo Folder**  
+🔗 [Click here to view sample output & demo video](https://drive.google.com/drive/folders/1WcEFlzHnb-FN2SFS0lgyGyZc7twP8E2o?usp=sharing)
